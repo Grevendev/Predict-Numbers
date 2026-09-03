@@ -360,6 +360,6 @@ Det visar hur en Machine Learning-modell kan gå från ett träningsdataset till
 
 ## 👨‍💻 Author
 
-**Edvin Lindborg**
+**Grevendev**
 
 Projektet är skapat som en del av mitt arbete med **Python, Machine Learning och AI-utveckling**.
